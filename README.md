@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princekumar926425/LEETCODE-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/princekumar926425/LEETCODE-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/princekumar926425/LEETCODE-/tree/master/0389-find-the-difference) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princekumar926425/LEETCODE-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/princekumar926425/LEETCODE-/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
