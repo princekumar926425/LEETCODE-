@@ -2,6 +2,9 @@ class Solution {
 public:
     bool checkOverlap(int radius, int xCenter, int yCenter,
                       int x1, int y1, int x2, int y2) {
+                        // now can be find x cordinate closet point
+                        //y coordinate  closet point
+                        // then distance  check smaller ya greater
 
         int xclose = 0;
         int yclose = 0;
@@ -25,7 +28,6 @@ public:
         // closest point aur circle center ke beech distance
         int dx = xclose - xCenter;
         int dy = yclose - yCenter;
-
         int distance = dx * dx + dy * dy;
         return distance <= radius * radius;
     }
