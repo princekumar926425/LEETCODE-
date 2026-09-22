@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/princekumar926425/LEETCODE-/tree/master/0012-integer-to-roman) |
 | [0389-find-the-difference](https://github.com/princekumar926425/LEETCODE-/tree/master/0389-find-the-difference) |
 | [0992-subarrays-with-k-different-integers](https://github.com/princekumar926425/LEETCODE-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princekumar926425/LEETCODE-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/princekumar926425/LEETCODE-/tree/master/0012-integer-to-roman) |
 | [0389-find-the-difference](https://github.com/princekumar926425/LEETCODE-/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/princekumar926425/LEETCODE-/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/princekumar926425/LEETCODE-/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/princekumar926425/LEETCODE-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/princekumar926425/LEETCODE-/tree/master/0258-add-digits) |
