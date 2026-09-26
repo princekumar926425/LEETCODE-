@@ -1,0 +1,18 @@
+class Solution {
+public:
+    vector<int> sortArrayByParity(vector<int>& nums) {
+        int i = 0;
+        int j = nums.size() - 1;
+        
+        while (i <= j) {
+            // now given the condition even and odd
+            if (nums[i] % 2 > nums[j] % 2) {
+                swap(nums[i], nums[j]);
+            }
+            if (nums[i] % 2 == 0) i++;
+            if (nums[j] % 2 != 0) j--;
+        }
+        
+        return nums;
+    }
+};
