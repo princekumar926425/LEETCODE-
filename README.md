@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/princekumar926425/LEETCODE-/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/princekumar926425/LEETCODE-/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/princekumar926425/LEETCODE-/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/princekumar926425/LEETCODE-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/princekumar926425/LEETCODE-/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/princekumar926425/LEETCODE-/tree/master/0905-sort-array-by-parity) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/princekumar926425/LEETCODE-/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/princekumar926425/LEETCODE-/tree/master/0012-integer-to-roman) |
+| [0347-top-k-frequent-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/princekumar926425/LEETCODE-/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/princekumar926425/LEETCODE-/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/princekumar926425/LEETCODE-/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/princekumar926425/LEETCODE-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/princekumar926425/LEETCODE-/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/princekumar926425/LEETCODE-/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/princekumar926425/LEETCODE-/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/princekumar926425/LEETCODE-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/princekumar926425/LEETCODE-/tree/master/0922-sort-array-by-parity-ii) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/princekumar926425/LEETCODE-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/princekumar926425/LEETCODE-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/princekumar926425/LEETCODE-/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0347-top-k-frequent-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/princekumar926425/LEETCODE-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
@@ -171,4 +176,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/princekumar926425/LEETCODE-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
