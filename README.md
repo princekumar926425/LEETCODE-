@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/princekumar926425/LEETCODE-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2831-find-the-longest-equal-subarray](https://github.com/princekumar926425/LEETCODE-/tree/master/2831-find-the-longest-equal-subarray) |
+| [2942-find-words-containing-character](https://github.com/princekumar926425/LEETCODE-/tree/master/2942-find-words-containing-character) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/princekumar926425/LEETCODE-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/princekumar926425/LEETCODE-/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/princekumar926425/LEETCODE-/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/princekumar926425/LEETCODE-/tree/master/0012-integer-to-roman) |
 | [0389-find-the-difference](https://github.com/princekumar926425/LEETCODE-/tree/master/0389-find-the-difference) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/princekumar926425/LEETCODE-/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2942-find-words-containing-character](https://github.com/princekumar926425/LEETCODE-/tree/master/2942-find-words-containing-character) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/princekumar926425/LEETCODE-/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Bit Manipulation
 |  |
