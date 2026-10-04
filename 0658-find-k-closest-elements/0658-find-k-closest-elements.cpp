@@ -10,7 +10,9 @@ public:
             if (x - arr[mid] > arr[mid + k] - x) {
                 l = mid + 1;
             }
-            else{ 
+
+            else{
+            
                 r = mid;
             }
             
