@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/princekumar926425/LEETCODE-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0905-sort-array-by-parity](https://github.com/princekumar926425/LEETCODE-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/princekumar926425/LEETCODE-/tree/master/0922-sort-array-by-parity-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/princekumar926425/LEETCODE-/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/princekumar926425/LEETCODE-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/princekumar926425/LEETCODE-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/princekumar926425/LEETCODE-/tree/master/1248-count-number-of-nice-subarrays) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/princekumar926425/LEETCODE-/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/princekumar926425/LEETCODE-/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/princekumar926425/LEETCODE-/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/princekumar926425/LEETCODE-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/princekumar926425/LEETCODE-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/princekumar926425/LEETCODE-/tree/master/1248-count-number-of-nice-subarrays) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0658-find-k-closest-elements) |
+| [0930-binary-subarrays-with-sum](https://github.com/princekumar926425/LEETCODE-/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/princekumar926425/LEETCODE-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/princekumar926425/LEETCODE-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princekumar926425/LEETCODE-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/princekumar926425/LEETCODE-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/princekumar926425/LEETCODE-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/princekumar926425/LEETCODE-/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/princekumar926425/LEETCODE-/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/princekumar926425/LEETCODE-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/princekumar926425/LEETCODE-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1829-maximum-xor-for-each-query](https://github.com/princekumar926425/LEETCODE-/tree/master/1829-maximum-xor-for-each-query) |
