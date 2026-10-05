@@ -1,26 +1,21 @@
 class Solution {
 public:
     int scoreOfParentheses(string s) {
-        int n = s.size();
-        stack<int> st;
-        st.push(0);
-        int score = 0;
-        for (int i = 0; i < n; i++) {
-            if (s[i] == '(') {
-                st.push(0);
-            } else {
-                int x = st.top();
-                st.pop();
-                if (x == 0) {
-                    score = 1;
-                } else {
-                    score = 2 * x;
-                }
-                 st.top() += score;
+        int n=s.size();
+        int open=0;
+        int ans=0;
+        for(int i=0;i<n;i++){
+            if(s[i]=='('){
+                open++;
             }
-               
+            else{//agar close mile to )
+            open--;
             
+            if(s[i-1]=='('){
+                ans+=pow(2,open);
+            }
+            }
         }
-        return st.top();
+        return ans;
     }
 };
