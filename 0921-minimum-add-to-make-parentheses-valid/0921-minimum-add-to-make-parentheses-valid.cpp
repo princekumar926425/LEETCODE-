@@ -9,7 +9,8 @@ public:
             if(s[i]=='('){
                 open++;
             }
-            //empty mila to
+            //target hai valid string banana hai()
+            //now chcek kakrlo ki kya  close ke bad open mil raha hai
             else {
                 if(open>0) open--;
             
