@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/princekumar926425/LEETCODE-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/princekumar926425/LEETCODE-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princekumar926425/LEETCODE-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1657-determine-if-two-strings-are-close](https://github.com/princekumar926425/LEETCODE-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/princekumar926425/LEETCODE-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/princekumar926425/LEETCODE-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/princekumar926425/LEETCODE-/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/princekumar926425/LEETCODE-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/princekumar926425/LEETCODE-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/princekumar926425/LEETCODE-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1657-determine-if-two-strings-are-close](https://github.com/princekumar926425/LEETCODE-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/princekumar926425/LEETCODE-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/princekumar926425/LEETCODE-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/princekumar926425/LEETCODE-/tree/master/2000-reverse-prefix-of-word) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/princekumar926425/LEETCODE-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0905-sort-array-by-parity](https://github.com/princekumar926425/LEETCODE-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/princekumar926425/LEETCODE-/tree/master/0922-sort-array-by-parity-ii) |
+| [1657-determine-if-two-strings-are-close](https://github.com/princekumar926425/LEETCODE-/tree/master/1657-determine-if-two-strings-are-close) |
 ## Math
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/princekumar926425/LEETCODE-/tree/master/0992-subarrays-with-k-different-integers) |
+| [1657-determine-if-two-strings-are-close](https://github.com/princekumar926425/LEETCODE-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/princekumar926425/LEETCODE-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/princekumar926425/LEETCODE-/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Geometry
