@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/princekumar926425/LEETCODE-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/princekumar926425/LEETCODE-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/princekumar926425/LEETCODE-/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/princekumar926425/LEETCODE-/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/princekumar926425/LEETCODE-/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/princekumar926425/LEETCODE-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/princekumar926425/LEETCODE-/tree/master/0678-valid-parenthesis-string) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/princekumar926425/LEETCODE-/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/princekumar926425/LEETCODE-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/princekumar926425/LEETCODE-/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/princekumar926425/LEETCODE-/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/princekumar926425/LEETCODE-/tree/master/0556-next-greater-element-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/princekumar926425/LEETCODE-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/princekumar926425/LEETCODE-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/princekumar926425/LEETCODE-/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/princekumar926425/LEETCODE-/tree/master/0412-fizz-buzz) |
 | [2105-watering-plants-ii](https://github.com/princekumar926425/LEETCODE-/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/princekumar926425/LEETCODE-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/princekumar926425/LEETCODE-/tree/master/2161-partition-array-according-to-given-pivot) |
