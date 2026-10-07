@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/princekumar926425/LEETCODE-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2460-apply-operations-to-an-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/princekumar926425/LEETCODE-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2740-find-the-value-of-the-partition](https://github.com/princekumar926425/LEETCODE-/tree/master/2740-find-the-value-of-the-partition) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2831-find-the-longest-equal-subarray](https://github.com/princekumar926425/LEETCODE-/tree/master/2831-find-the-longest-equal-subarray) |
 | [2942-find-words-containing-character](https://github.com/princekumar926425/LEETCODE-/tree/master/2942-find-words-containing-character) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/princekumar926425/LEETCODE-/tree/master/0922-sort-array-by-parity-ii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/princekumar926425/LEETCODE-/tree/master/1329-sort-the-matrix-diagonally) |
 | [1657-determine-if-two-strings-are-close](https://github.com/princekumar926425/LEETCODE-/tree/master/1657-determine-if-two-strings-are-close) |
+| [2740-find-the-value-of-the-partition](https://github.com/princekumar926425/LEETCODE-/tree/master/2740-find-the-value-of-the-partition) |
 ## Math
 |  |
 | ------- |
