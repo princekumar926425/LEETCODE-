@@ -1,29 +1,28 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        int start = 0;
-        int end = s.length() - 1;
+        int left = 0;
+        int right = s.size() - 1;
 
-        while (start < end) {
+        while (left < right) {
 
-            while (start < end && !isalnum(s[start])) {
-                start++;
+            // compare karneg kya left aur right character sam ehai kya
+            while (left < right && !isalnum(s[left])) {
+                left++;
             }
-
-            while (start < end && !isalnum(s[end])) {
-                end--;
+            // yaha bhi rihght se left check karenge ki kya equal hai ki nhi
+            while (left < right && !isalnum(s[right])) {
+                right--;
             }
-
-            if (tolower(s[start]) != tolower(s[end])) {
+            // kya A and a dono equal hai
+            if (tolower(s[left]) != tolower(s[right])) {
                 return false;
             }
 
-            start++;
-            end--;
+            left++;
+            right--;
         }
 
         return true;
     }
 };
-
-
