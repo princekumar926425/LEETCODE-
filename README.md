@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/princekumar926425/LEETCODE-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/princekumar926425/LEETCODE-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/princekumar926425/LEETCODE-/tree/master/0032-longest-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/princekumar926425/LEETCODE-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/princekumar926425/LEETCODE-/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/princekumar926425/LEETCODE-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/princekumar926425/LEETCODE-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/princekumar926425/LEETCODE-/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/princekumar926425/LEETCODE-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/princekumar926425/LEETCODE-/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/princekumar926425/LEETCODE-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/princekumar926425/LEETCODE-/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/princekumar926425/LEETCODE-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/princekumar926425/LEETCODE-/tree/master/0345-reverse-vowels-of-a-string) |
