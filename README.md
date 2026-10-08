@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/princekumar926425/LEETCODE-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2460-apply-operations-to-an-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/princekumar926425/LEETCODE-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2678-number-of-senior-citizens](https://github.com/princekumar926425/LEETCODE-/tree/master/2678-number-of-senior-citizens) |
 | [2740-find-the-value-of-the-partition](https://github.com/princekumar926425/LEETCODE-/tree/master/2740-find-the-value-of-the-partition) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2831-find-the-longest-equal-subarray](https://github.com/princekumar926425/LEETCODE-/tree/master/2831-find-the-longest-equal-subarray) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/princekumar926425/LEETCODE-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/princekumar926425/LEETCODE-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/princekumar926425/LEETCODE-/tree/master/2000-reverse-prefix-of-word) |
+| [2678-number-of-senior-citizens](https://github.com/princekumar926425/LEETCODE-/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/princekumar926425/LEETCODE-/tree/master/2942-find-words-containing-character) |
 | [3146-permutation-difference-between-two-strings](https://github.com/princekumar926425/LEETCODE-/tree/master/3146-permutation-difference-between-two-strings) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/princekumar926425/LEETCODE-/tree/master/3760-maximum-substrings-with-distinct-start) |
