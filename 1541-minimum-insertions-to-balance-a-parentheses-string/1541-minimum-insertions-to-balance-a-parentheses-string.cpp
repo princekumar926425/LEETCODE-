@@ -11,7 +11,7 @@ public:
             } else {
 
                 // check karo ki )) hai ya nahi
-                if (i + 1 < s.size() && s[i + 1] == ')') {
+                if (s[i + 1] == ')') {
                     i++;
                 } else {
                     // single ) mila
