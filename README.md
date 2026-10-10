@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/princekumar926425/LEETCODE-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/princekumar926425/LEETCODE-/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/princekumar926425/LEETCODE-/tree/master/0930-binary-subarrays-with-sum) |
+| [0942-di-string-match](https://github.com/princekumar926425/LEETCODE-/tree/master/0942-di-string-match) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/princekumar926425/LEETCODE-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/princekumar926425/LEETCODE-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/princekumar926425/LEETCODE-/tree/master/1248-count-number-of-nice-subarrays) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/princekumar926425/LEETCODE-/tree/master/0821-shortest-distance-to-a-character) |
 | [0856-score-of-parentheses](https://github.com/princekumar926425/LEETCODE-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/princekumar926425/LEETCODE-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0942-di-string-match](https://github.com/princekumar926425/LEETCODE-/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/princekumar926425/LEETCODE-/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/princekumar926425/LEETCODE-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/princekumar926425/LEETCODE-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/princekumar926425/LEETCODE-/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/princekumar926425/LEETCODE-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/princekumar926425/LEETCODE-/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/princekumar926425/LEETCODE-/tree/master/0942-di-string-match) |
 | [1754-largest-merge-of-two-strings](https://github.com/princekumar926425/LEETCODE-/tree/master/1754-largest-merge-of-two-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/princekumar926425/LEETCODE-/tree/master/2000-reverse-prefix-of-word) |
 | [2105-watering-plants-ii](https://github.com/princekumar926425/LEETCODE-/tree/master/2105-watering-plants-ii) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/princekumar926425/LEETCODE-/tree/master/0680-valid-palindrome-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/princekumar926425/LEETCODE-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/princekumar926425/LEETCODE-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0942-di-string-match](https://github.com/princekumar926425/LEETCODE-/tree/master/0942-di-string-match) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/princekumar926425/LEETCODE-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1754-largest-merge-of-two-strings](https://github.com/princekumar926425/LEETCODE-/tree/master/1754-largest-merge-of-two-strings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/princekumar926425/LEETCODE-/tree/master/2697-lexicographically-smallest-palindrome) |
