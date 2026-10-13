@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/princekumar926425/LEETCODE-/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/princekumar926425/LEETCODE-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/princekumar926425/LEETCODE-/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/princekumar926425/LEETCODE-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/princekumar926425/LEETCODE-/tree/master/1329-sort-the-matrix-diagonally) |
 | [1657-determine-if-two-strings-are-close](https://github.com/princekumar926425/LEETCODE-/tree/master/1657-determine-if-two-strings-are-close) |
 | [2740-find-the-value-of-the-partition](https://github.com/princekumar926425/LEETCODE-/tree/master/2740-find-the-value-of-the-partition) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/princekumar926425/LEETCODE-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1754-largest-merge-of-two-strings](https://github.com/princekumar926425/LEETCODE-/tree/master/1754-largest-merge-of-two-strings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/princekumar926425/LEETCODE-/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2938-separate-black-and-white-balls](https://github.com/princekumar926425/LEETCODE-/tree/master/2938-separate-black-and-white-balls) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/princekumar926425/LEETCODE-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
