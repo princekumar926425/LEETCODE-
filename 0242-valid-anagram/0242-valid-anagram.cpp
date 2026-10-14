@@ -1,21 +1,25 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        //gar dono ka length equal nhi hai to return false
-        if(s.size() != t.size())
-         return false;
 
-        unordered_map<char, int> mp;
-
-        for(char ch : s){
-            mp[ch]++;
+        if (s.size() != t.size()) {
+            return false;
         }
 
-        for(char ch : t){
-            mp[ch]--;
-            if(mp[ch] < 0){
+        sort(s.begin(), s.end());
+        sort(t.begin(), t.end());
+
+        int i = 0;
+        int j = 0;
+
+        while (i < s.size() && j < t.size()) {
+
+            if (s[i] != t[j]) {
                 return false;
             }
+
+            i++;
+            j++;
         }
 
         return true;
