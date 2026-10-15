@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/princekumar926425/LEETCODE-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1329-sort-the-matrix-diagonally](https://github.com/princekumar926425/LEETCODE-/tree/master/1329-sort-the-matrix-diagonally) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princekumar926425/LEETCODE-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/princekumar926425/LEETCODE-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/princekumar926425/LEETCODE-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1813-sentence-similarity-iii](https://github.com/princekumar926425/LEETCODE-/tree/master/1813-sentence-similarity-iii) |
 | [1829-maximum-xor-for-each-query](https://github.com/princekumar926425/LEETCODE-/tree/master/1829-maximum-xor-for-each-query) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/princekumar926425/LEETCODE-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/princekumar926425/LEETCODE-/tree/master/0922-sort-array-by-parity-ii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/princekumar926425/LEETCODE-/tree/master/1329-sort-the-matrix-diagonally) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/princekumar926425/LEETCODE-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1657-determine-if-two-strings-are-close](https://github.com/princekumar926425/LEETCODE-/tree/master/1657-determine-if-two-strings-are-close) |
 | [2740-find-the-value-of-the-partition](https://github.com/princekumar926425/LEETCODE-/tree/master/2740-find-the-value-of-the-partition) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/princekumar926425/LEETCODE-/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/princekumar926425/LEETCODE-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/princekumar926425/LEETCODE-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/princekumar926425/LEETCODE-/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/princekumar926425/LEETCODE-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2169-count-operations-to-obtain-zero](https://github.com/princekumar926425/LEETCODE-/tree/master/2169-count-operations-to-obtain-zero) |
 | [2485-find-the-pivot-integer](https://github.com/princekumar926425/LEETCODE-/tree/master/2485-find-the-pivot-integer) |
 | [2525-categorize-box-according-to-criteria](https://github.com/princekumar926425/LEETCODE-/tree/master/2525-categorize-box-according-to-criteria) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/princekumar926425/LEETCODE-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/princekumar926425/LEETCODE-/tree/master/0942-di-string-match) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/princekumar926425/LEETCODE-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/princekumar926425/LEETCODE-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1754-largest-merge-of-two-strings](https://github.com/princekumar926425/LEETCODE-/tree/master/1754-largest-merge-of-two-strings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/princekumar926425/LEETCODE-/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2938-separate-black-and-white-balls](https://github.com/princekumar926425/LEETCODE-/tree/master/2938-separate-black-and-white-balls) |
@@ -375,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/princekumar926425/LEETCODE-/tree/master/0646-maximum-length-of-pair-chain) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/princekumar926425/LEETCODE-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
