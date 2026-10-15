@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/princekumar926425/LEETCODE-/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/princekumar926425/LEETCODE-/tree/master/0560-subarray-sum-equals-k) |
+| [0646-maximum-length-of-pair-chain](https://github.com/princekumar926425/LEETCODE-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/princekumar926425/LEETCODE-/tree/master/0724-find-pivot-index) |
 | [0769-max-chunks-to-make-sorted](https://github.com/princekumar926425/LEETCODE-/tree/master/0769-max-chunks-to-make-sorted) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/princekumar926425/LEETCODE-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/princekumar926425/LEETCODE-/tree/master/0032-longest-valid-parentheses) |
+| [0646-maximum-length-of-pair-chain](https://github.com/princekumar926425/LEETCODE-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/princekumar926425/LEETCODE-/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princekumar926425/LEETCODE-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/princekumar926425/LEETCODE-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/princekumar926425/LEETCODE-/tree/master/0389-find-the-difference) |
+| [0646-maximum-length-of-pair-chain](https://github.com/princekumar926425/LEETCODE-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0658-find-k-closest-elements) |
 | [0769-max-chunks-to-make-sorted](https://github.com/princekumar926425/LEETCODE-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0905-sort-array-by-parity](https://github.com/princekumar926425/LEETCODE-/tree/master/0905-sort-array-by-parity) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/princekumar926425/LEETCODE-/tree/master/0011-container-with-most-water) |
+| [0646-maximum-length-of-pair-chain](https://github.com/princekumar926425/LEETCODE-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/princekumar926425/LEETCODE-/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/princekumar926425/LEETCODE-/tree/master/0680-valid-palindrome-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/princekumar926425/LEETCODE-/tree/master/0769-max-chunks-to-make-sorted) |
@@ -367,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/princekumar926425/LEETCODE-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/princekumar926425/LEETCODE-/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
