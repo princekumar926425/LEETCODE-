@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-sentence-similarity-iii](https://github.com/princekumar926425/LEETCODE-/tree/master/1813-sentence-similarity-iii) |
 | [1829-maximum-xor-for-each-query](https://github.com/princekumar926425/LEETCODE-/tree/master/1829-maximum-xor-for-each-query) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/princekumar926425/LEETCODE-/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/princekumar926425/LEETCODE-/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2105-watering-plants-ii](https://github.com/princekumar926425/LEETCODE-/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/princekumar926425/LEETCODE-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/princekumar926425/LEETCODE-/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/princekumar926425/LEETCODE-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/princekumar926425/LEETCODE-/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princekumar926425/LEETCODE-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/princekumar926425/LEETCODE-/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Sliding Window
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/princekumar926425/LEETCODE-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/princekumar926425/LEETCODE-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1829-maximum-xor-for-each-query](https://github.com/princekumar926425/LEETCODE-/tree/master/1829-maximum-xor-for-each-query) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/princekumar926425/LEETCODE-/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/princekumar926425/LEETCODE-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/princekumar926425/LEETCODE-/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/princekumar926425/LEETCODE-/tree/master/2574-left-and-right-sum-differences) |
