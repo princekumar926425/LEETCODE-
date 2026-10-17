@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/princekumar926425/LEETCODE-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princekumar926425/LEETCODE-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/princekumar926425/LEETCODE-/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/princekumar926425/LEETCODE-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/princekumar926425/LEETCODE-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/princekumar926425/LEETCODE-/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/princekumar926425/LEETCODE-/tree/master/0238-product-of-array-except-self) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/princekumar926425/LEETCODE-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/princekumar926425/LEETCODE-/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/princekumar926425/LEETCODE-/tree/master/0042-trapping-rain-water) |
 | [0646-maximum-length-of-pair-chain](https://github.com/princekumar926425/LEETCODE-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/princekumar926425/LEETCODE-/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princekumar926425/LEETCODE-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/princekumar926425/LEETCODE-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princekumar926425/LEETCODE-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/princekumar926425/LEETCODE-/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/princekumar926425/LEETCODE-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/princekumar926425/LEETCODE-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/princekumar926425/LEETCODE-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/princekumar926425/LEETCODE-/tree/master/0125-valid-palindrome) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/princekumar926425/LEETCODE-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/princekumar926425/LEETCODE-/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/princekumar926425/LEETCODE-/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/princekumar926425/LEETCODE-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/princekumar926425/LEETCODE-/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/princekumar926425/LEETCODE-/tree/master/0678-valid-parenthesis-string) |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/princekumar926425/LEETCODE-/tree/master/0042-trapping-rain-water) |
 | [0769-max-chunks-to-make-sorted](https://github.com/princekumar926425/LEETCODE-/tree/master/0769-max-chunks-to-make-sorted) |
 ## Quicksort
 |  |
