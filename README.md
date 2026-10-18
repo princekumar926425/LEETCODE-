@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/princekumar926425/LEETCODE-/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/princekumar926425/LEETCODE-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/princekumar926425/LEETCODE-/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/princekumar926425/LEETCODE-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/princekumar926425/LEETCODE-/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/princekumar926425/LEETCODE-/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/princekumar926425/LEETCODE-/tree/master/0303-range-sum-query-immutable) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/princekumar926425/LEETCODE-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/princekumar926425/LEETCODE-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/princekumar926425/LEETCODE-/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/princekumar926425/LEETCODE-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/princekumar926425/LEETCODE-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/princekumar926425/LEETCODE-/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/princekumar926425/LEETCODE-/tree/master/0678-valid-parenthesis-string) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/princekumar926425/LEETCODE-/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/princekumar926425/LEETCODE-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0769-max-chunks-to-make-sorted](https://github.com/princekumar926425/LEETCODE-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0907-sum-of-subarray-minimums](https://github.com/princekumar926425/LEETCODE-/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/princekumar926425/LEETCODE-/tree/master/2104-sum-of-subarray-ranges) |
@@ -421,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/princekumar926425/LEETCODE-/tree/master/0225-implement-stack-using-queues) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/princekumar926425/LEETCODE-/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
