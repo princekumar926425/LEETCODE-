@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princekumar926425/LEETCODE-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/princekumar926425/LEETCODE-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/princekumar926425/LEETCODE-/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/princekumar926425/LEETCODE-/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1813-sentence-similarity-iii](https://github.com/princekumar926425/LEETCODE-/tree/master/1813-sentence-similarity-iii) |
 | [1829-maximum-xor-for-each-query](https://github.com/princekumar926425/LEETCODE-/tree/master/1829-maximum-xor-for-each-query) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/princekumar926425/LEETCODE-/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/princekumar926425/LEETCODE-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/princekumar926425/LEETCODE-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/princekumar926425/LEETCODE-/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/princekumar926425/LEETCODE-/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/princekumar926425/LEETCODE-/tree/master/2169-count-operations-to-obtain-zero) |
 | [2485-find-the-pivot-integer](https://github.com/princekumar926425/LEETCODE-/tree/master/2485-find-the-pivot-integer) |
 | [2525-categorize-box-according-to-criteria](https://github.com/princekumar926425/LEETCODE-/tree/master/2525-categorize-box-according-to-criteria) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/princekumar926425/LEETCODE-/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/princekumar926425/LEETCODE-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/princekumar926425/LEETCODE-/tree/master/1248-count-number-of-nice-subarrays) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/princekumar926425/LEETCODE-/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1829-maximum-xor-for-each-query](https://github.com/princekumar926425/LEETCODE-/tree/master/1829-maximum-xor-for-each-query) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/princekumar926425/LEETCODE-/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/princekumar926425/LEETCODE-/tree/master/2483-minimum-penalty-for-a-shop) |
