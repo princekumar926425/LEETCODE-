@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/princekumar926425/LEETCODE-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/princekumar926425/LEETCODE-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/princekumar926425/LEETCODE-/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/princekumar926425/LEETCODE-/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/princekumar926425/LEETCODE-/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/princekumar926425/LEETCODE-/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/princekumar926425/LEETCODE-/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/princekumar926425/LEETCODE-/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/princekumar926425/LEETCODE-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/princekumar926425/LEETCODE-/tree/master/0225-implement-stack-using-queues) |
+| [0402-remove-k-digits](https://github.com/princekumar926425/LEETCODE-/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/princekumar926425/LEETCODE-/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/princekumar926425/LEETCODE-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/princekumar926425/LEETCODE-/tree/master/0856-score-of-parentheses) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/princekumar926425/LEETCODE-/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/princekumar926425/LEETCODE-/tree/master/0402-remove-k-digits) |
 | [0646-maximum-length-of-pair-chain](https://github.com/princekumar926425/LEETCODE-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/princekumar926425/LEETCODE-/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/princekumar926425/LEETCODE-/tree/master/0680-valid-palindrome-ii) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/princekumar926425/LEETCODE-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/princekumar926425/LEETCODE-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/princekumar926425/LEETCODE-/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/princekumar926425/LEETCODE-/tree/master/0402-remove-k-digits) |
 | [0769-max-chunks-to-make-sorted](https://github.com/princekumar926425/LEETCODE-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0907-sum-of-subarray-minimums](https://github.com/princekumar926425/LEETCODE-/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/princekumar926425/LEETCODE-/tree/master/2104-sum-of-subarray-ranges) |
