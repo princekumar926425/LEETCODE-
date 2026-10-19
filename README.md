@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/princekumar926425/LEETCODE-/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2420-find-all-good-indices](https://github.com/princekumar926425/LEETCODE-/tree/master/2420-find-all-good-indices) |
 | [2460-apply-operations-to-an-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/princekumar926425/LEETCODE-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/princekumar926425/LEETCODE-/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/princekumar926425/LEETCODE-/tree/master/0907-sum-of-subarray-minimums) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princekumar926425/LEETCODE-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/princekumar926425/LEETCODE-/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2420-find-all-good-indices](https://github.com/princekumar926425/LEETCODE-/tree/master/2420-find-all-good-indices) |
 ## Sliding Window
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-xor-for-each-query](https://github.com/princekumar926425/LEETCODE-/tree/master/1829-maximum-xor-for-each-query) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/princekumar926425/LEETCODE-/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/princekumar926425/LEETCODE-/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2420-find-all-good-indices](https://github.com/princekumar926425/LEETCODE-/tree/master/2420-find-all-good-indices) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/princekumar926425/LEETCODE-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/princekumar926425/LEETCODE-/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/princekumar926425/LEETCODE-/tree/master/2574-left-and-right-sum-differences) |
