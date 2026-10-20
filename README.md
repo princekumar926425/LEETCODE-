@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/princekumar926425/LEETCODE-/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/princekumar926425/LEETCODE-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0347-top-k-frequent-elements) |
+| [0456-132-pattern](https://github.com/princekumar926425/LEETCODE-/tree/master/0456-132-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/princekumar926425/LEETCODE-/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/princekumar926425/LEETCODE-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0658-find-k-closest-elements) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/princekumar926425/LEETCODE-/tree/master/0069-sqrtx) |
+| [0456-132-pattern](https://github.com/princekumar926425/LEETCODE-/tree/master/0456-132-pattern) |
 | [0658-find-k-closest-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0658-find-k-closest-elements) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princekumar926425/LEETCODE-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/princekumar926425/LEETCODE-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/princekumar926425/LEETCODE-/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/princekumar926425/LEETCODE-/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/princekumar926425/LEETCODE-/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/princekumar926425/LEETCODE-/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/princekumar926425/LEETCODE-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/princekumar926425/LEETCODE-/tree/master/0856-score-of-parentheses) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/princekumar926425/LEETCODE-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/princekumar926425/LEETCODE-/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/princekumar926425/LEETCODE-/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/princekumar926425/LEETCODE-/tree/master/0456-132-pattern) |
 | [0769-max-chunks-to-make-sorted](https://github.com/princekumar926425/LEETCODE-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0901-online-stock-span](https://github.com/princekumar926425/LEETCODE-/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/princekumar926425/LEETCODE-/tree/master/0907-sum-of-subarray-minimums) |
@@ -464,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0901-online-stock-span](https://github.com/princekumar926425/LEETCODE-/tree/master/0901-online-stock-span) |
 | [1352-product-of-the-last-k-numbers](https://github.com/princekumar926425/LEETCODE-/tree/master/1352-product-of-the-last-k-numbers) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/princekumar926425/LEETCODE-/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
