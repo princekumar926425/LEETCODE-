@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-count-the-number-of-good-subarrays](https://github.com/princekumar926425/LEETCODE-/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/princekumar926425/LEETCODE-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/princekumar926425/LEETCODE-/tree/master/2574-left-and-right-sum-differences) |
+| [2592-maximize-greatness-of-an-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2592-maximize-greatness-of-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/princekumar926425/LEETCODE-/tree/master/2678-number-of-senior-citizens) |
 | [2740-find-the-value-of-the-partition](https://github.com/princekumar926425/LEETCODE-/tree/master/2740-find-the-value-of-the-partition) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/princekumar926425/LEETCODE-/tree/master/1657-determine-if-two-strings-are-close) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/princekumar926425/LEETCODE-/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2592-maximize-greatness-of-an-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2592-maximize-greatness-of-an-array) |
 | [2740-find-the-value-of-the-partition](https://github.com/princekumar926425/LEETCODE-/tree/master/2740-find-the-value-of-the-partition) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/princekumar926425/LEETCODE-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-move-pieces-to-obtain-a-string](https://github.com/princekumar926425/LEETCODE-/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/princekumar926425/LEETCODE-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2592-maximize-greatness-of-an-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2592-maximize-greatness-of-an-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/princekumar926425/LEETCODE-/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/princekumar926425/LEETCODE-/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2938-separate-black-and-white-balls](https://github.com/princekumar926425/LEETCODE-/tree/master/2938-separate-black-and-white-balls) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/princekumar926425/LEETCODE-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1754-largest-merge-of-two-strings](https://github.com/princekumar926425/LEETCODE-/tree/master/1754-largest-merge-of-two-strings) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/princekumar926425/LEETCODE-/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2592-maximize-greatness-of-an-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2592-maximize-greatness-of-an-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/princekumar926425/LEETCODE-/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2938-separate-black-and-white-balls](https://github.com/princekumar926425/LEETCODE-/tree/master/2938-separate-black-and-white-balls) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/princekumar926425/LEETCODE-/tree/master/3727-maximum-alternating-sum-of-squares) |
