@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2420-find-all-good-indices](https://github.com/princekumar926425/LEETCODE-/tree/master/2420-find-all-good-indices) |
 | [2460-apply-operations-to-an-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/princekumar926425/LEETCODE-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2536-increment-submatrices-by-one](https://github.com/princekumar926425/LEETCODE-/tree/master/2536-increment-submatrices-by-one) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/princekumar926425/LEETCODE-/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/princekumar926425/LEETCODE-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/princekumar926425/LEETCODE-/tree/master/2574-left-and-right-sum-differences) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2420-find-all-good-indices](https://github.com/princekumar926425/LEETCODE-/tree/master/2420-find-all-good-indices) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/princekumar926425/LEETCODE-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/princekumar926425/LEETCODE-/tree/master/2485-find-the-pivot-integer) |
+| [2536-increment-submatrices-by-one](https://github.com/princekumar926425/LEETCODE-/tree/master/2536-increment-submatrices-by-one) |
 | [2574-left-and-right-sum-differences](https://github.com/princekumar926425/LEETCODE-/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/princekumar926425/LEETCODE-/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Heap (Priority Queue)
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/princekumar926425/LEETCODE-/tree/master/0085-maximal-rectangle) |
 | [0304-range-sum-query-2d-immutable](https://github.com/princekumar926425/LEETCODE-/tree/master/0304-range-sum-query-2d-immutable) |
 | [1329-sort-the-matrix-diagonally](https://github.com/princekumar926425/LEETCODE-/tree/master/1329-sort-the-matrix-diagonally) |
+| [2536-increment-submatrices-by-one](https://github.com/princekumar926425/LEETCODE-/tree/master/2536-increment-submatrices-by-one) |
 ## Binary Indexed Tree
 |  |
 | ------- |
