@@ -6,6 +6,7 @@ public:
 
         for(char ch : s) {
             if(ch == '(') {
+                //kya hm open bracket ke andar hai
                 if(open > 0) ans += ch;
                 open++;
             }
