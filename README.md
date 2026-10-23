@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/princekumar926425/LEETCODE-/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/princekumar926425/LEETCODE-/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/princekumar926425/LEETCODE-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/princekumar926425/LEETCODE-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/princekumar926425/LEETCODE-/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/princekumar926425/LEETCODE-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/princekumar926425/LEETCODE-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/princekumar926425/LEETCODE-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1829-maximum-xor-for-each-query](https://github.com/princekumar926425/LEETCODE-/tree/master/1829-maximum-xor-for-each-query) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/princekumar926425/LEETCODE-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Sorting
 |  |
 | ------- |
