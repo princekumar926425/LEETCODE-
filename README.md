@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/princekumar926425/LEETCODE-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2420-find-all-good-indices](https://github.com/princekumar926425/LEETCODE-/tree/master/2420-find-all-good-indices) |
+| [2454-next-greater-element-iv](https://github.com/princekumar926425/LEETCODE-/tree/master/2454-next-greater-element-iv) |
 | [2460-apply-operations-to-an-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/princekumar926425/LEETCODE-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2536-increment-submatrices-by-one](https://github.com/princekumar926425/LEETCODE-/tree/master/2536-increment-submatrices-by-one) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0658-find-k-closest-elements) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princekumar926425/LEETCODE-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2454-next-greater-element-iv](https://github.com/princekumar926425/LEETCODE-/tree/master/2454-next-greater-element-iv) |
 | [2831-find-the-longest-equal-subarray](https://github.com/princekumar926425/LEETCODE-/tree/master/2831-find-the-longest-equal-subarray) |
 ## Dynamic Programming
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/princekumar926425/LEETCODE-/tree/master/1657-determine-if-two-strings-are-close) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/princekumar926425/LEETCODE-/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2454-next-greater-element-iv](https://github.com/princekumar926425/LEETCODE-/tree/master/2454-next-greater-element-iv) |
 | [2592-maximize-greatness-of-an-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2592-maximize-greatness-of-an-array) |
 | [2740-find-the-value-of-the-partition](https://github.com/princekumar926425/LEETCODE-/tree/master/2740-find-the-value-of-the-partition) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/princekumar926425/LEETCODE-/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0658-find-k-closest-elements) |
+| [2454-next-greater-element-iv](https://github.com/princekumar926425/LEETCODE-/tree/master/2454-next-greater-element-iv) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/princekumar926425/LEETCODE-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/princekumar926425/LEETCODE-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2000-reverse-prefix-of-word](https://github.com/princekumar926425/LEETCODE-/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/princekumar926425/LEETCODE-/tree/master/2104-sum-of-subarray-ranges) |
+| [2454-next-greater-element-iv](https://github.com/princekumar926425/LEETCODE-/tree/master/2454-next-greater-element-iv) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -430,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/princekumar926425/LEETCODE-/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/princekumar926425/LEETCODE-/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/princekumar926425/LEETCODE-/tree/master/2104-sum-of-subarray-ranges) |
+| [2454-next-greater-element-iv](https://github.com/princekumar926425/LEETCODE-/tree/master/2454-next-greater-element-iv) |
 ## Quicksort
 |  |
 | ------- |
