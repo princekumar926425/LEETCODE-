@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/princekumar926425/LEETCODE-/tree/master/2574-left-and-right-sum-differences) |
 | [2592-maximize-greatness-of-an-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2592-maximize-greatness-of-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/princekumar926425/LEETCODE-/tree/master/2678-number-of-senior-citizens) |
+| [2681-power-of-heroes](https://github.com/princekumar926425/LEETCODE-/tree/master/2681-power-of-heroes) |
 | [2740-find-the-value-of-the-partition](https://github.com/princekumar926425/LEETCODE-/tree/master/2740-find-the-value-of-the-partition) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2831-find-the-longest-equal-subarray](https://github.com/princekumar926425/LEETCODE-/tree/master/2831-find-the-longest-equal-subarray) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princekumar926425/LEETCODE-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/princekumar926425/LEETCODE-/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2420-find-all-good-indices](https://github.com/princekumar926425/LEETCODE-/tree/master/2420-find-all-good-indices) |
+| [2681-power-of-heroes](https://github.com/princekumar926425/LEETCODE-/tree/master/2681-power-of-heroes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/princekumar926425/LEETCODE-/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2454-next-greater-element-iv](https://github.com/princekumar926425/LEETCODE-/tree/master/2454-next-greater-element-iv) |
 | [2592-maximize-greatness-of-an-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2592-maximize-greatness-of-an-array) |
+| [2681-power-of-heroes](https://github.com/princekumar926425/LEETCODE-/tree/master/2681-power-of-heroes) |
 | [2740-find-the-value-of-the-partition](https://github.com/princekumar926425/LEETCODE-/tree/master/2740-find-the-value-of-the-partition) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/princekumar926425/LEETCODE-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/princekumar926425/LEETCODE-/tree/master/2169-count-operations-to-obtain-zero) |
 | [2485-find-the-pivot-integer](https://github.com/princekumar926425/LEETCODE-/tree/master/2485-find-the-pivot-integer) |
 | [2525-categorize-box-according-to-criteria](https://github.com/princekumar926425/LEETCODE-/tree/master/2525-categorize-box-according-to-criteria) |
+| [2681-power-of-heroes](https://github.com/princekumar926425/LEETCODE-/tree/master/2681-power-of-heroes) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/princekumar926425/LEETCODE-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/princekumar926425/LEETCODE-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/princekumar926425/LEETCODE-/tree/master/2485-find-the-pivot-integer) |
 | [2536-increment-submatrices-by-one](https://github.com/princekumar926425/LEETCODE-/tree/master/2536-increment-submatrices-by-one) |
 | [2574-left-and-right-sum-differences](https://github.com/princekumar926425/LEETCODE-/tree/master/2574-left-and-right-sum-differences) |
+| [2681-power-of-heroes](https://github.com/princekumar926425/LEETCODE-/tree/master/2681-power-of-heroes) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/princekumar926425/LEETCODE-/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Heap (Priority Queue)
 |  |
