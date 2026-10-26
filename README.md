@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0347-top-k-frequent-elements) |
 | [0456-132-pattern](https://github.com/princekumar926425/LEETCODE-/tree/master/0456-132-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/princekumar926425/LEETCODE-/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/princekumar926425/LEETCODE-/tree/master/0622-design-circular-queue) |
 | [0646-maximum-length-of-pair-chain](https://github.com/princekumar926425/LEETCODE-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/princekumar926425/LEETCODE-/tree/master/0724-find-pivot-index) |
@@ -487,12 +488,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/princekumar926425/LEETCODE-/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/princekumar926425/LEETCODE-/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/princekumar926425/LEETCODE-/tree/master/0304-range-sum-query-2d-immutable) |
+| [0622-design-circular-queue](https://github.com/princekumar926425/LEETCODE-/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/princekumar926425/LEETCODE-/tree/master/0901-online-stock-span) |
 | [1352-product-of-the-last-k-numbers](https://github.com/princekumar926425/LEETCODE-/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/princekumar926425/LEETCODE-/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/princekumar926425/LEETCODE-/tree/master/0622-design-circular-queue) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -510,4 +513,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/princekumar926425/LEETCODE-/tree/master/2185-counting-words-with-a-given-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/princekumar926425/LEETCODE-/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
