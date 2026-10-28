@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/princekumar926425/LEETCODE-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1329-sort-the-matrix-diagonally](https://github.com/princekumar926425/LEETCODE-/tree/master/1329-sort-the-matrix-diagonally) |
 | [1352-product-of-the-last-k-numbers](https://github.com/princekumar926425/LEETCODE-/tree/master/1352-product-of-the-last-k-numbers) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/princekumar926425/LEETCODE-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princekumar926425/LEETCODE-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/princekumar926425/LEETCODE-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/princekumar926425/LEETCODE-/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/princekumar926425/LEETCODE-/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/princekumar926425/LEETCODE-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/princekumar926425/LEETCODE-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/princekumar926425/LEETCODE-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/princekumar926425/LEETCODE-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princekumar926425/LEETCODE-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/princekumar926425/LEETCODE-/tree/master/2000-reverse-prefix-of-word) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/princekumar926425/LEETCODE-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0901-online-stock-span](https://github.com/princekumar926425/LEETCODE-/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/princekumar926425/LEETCODE-/tree/master/0907-sum-of-subarray-minimums) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/princekumar926425/LEETCODE-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/princekumar926425/LEETCODE-/tree/master/2104-sum-of-subarray-ranges) |
 | [2454-next-greater-element-iv](https://github.com/princekumar926425/LEETCODE-/tree/master/2454-next-greater-element-iv) |
 ## Quicksort
