@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/princekumar926425/LEETCODE-/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1813-sentence-similarity-iii](https://github.com/princekumar926425/LEETCODE-/tree/master/1813-sentence-similarity-iii) |
 | [1829-maximum-xor-for-each-query](https://github.com/princekumar926425/LEETCODE-/tree/master/1829-maximum-xor-for-each-query) |
+| [1854-maximum-population-year](https://github.com/princekumar926425/LEETCODE-/tree/master/1854-maximum-population-year) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/princekumar926425/LEETCODE-/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/princekumar926425/LEETCODE-/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/princekumar926425/LEETCODE-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/princekumar926425/LEETCODE-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/princekumar926425/LEETCODE-/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1854-maximum-population-year](https://github.com/princekumar926425/LEETCODE-/tree/master/1854-maximum-population-year) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/princekumar926425/LEETCODE-/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Geometry
 |  |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/princekumar926425/LEETCODE-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/princekumar926425/LEETCODE-/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1829-maximum-xor-for-each-query](https://github.com/princekumar926425/LEETCODE-/tree/master/1829-maximum-xor-for-each-query) |
+| [1854-maximum-population-year](https://github.com/princekumar926425/LEETCODE-/tree/master/1854-maximum-population-year) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/princekumar926425/LEETCODE-/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/princekumar926425/LEETCODE-/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2420-find-all-good-indices](https://github.com/princekumar926425/LEETCODE-/tree/master/2420-find-all-good-indices) |
