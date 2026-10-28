@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2740-find-the-value-of-the-partition](https://github.com/princekumar926425/LEETCODE-/tree/master/2740-find-the-value-of-the-partition) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2831-find-the-longest-equal-subarray](https://github.com/princekumar926425/LEETCODE-/tree/master/2831-find-the-longest-equal-subarray) |
+| [2848-points-that-intersect-with-cars](https://github.com/princekumar926425/LEETCODE-/tree/master/2848-points-that-intersect-with-cars) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/princekumar926425/LEETCODE-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/princekumar926425/LEETCODE-/tree/master/2942-find-words-containing-character) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/princekumar926425/LEETCODE-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-count-the-number-of-good-subarrays](https://github.com/princekumar926425/LEETCODE-/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/princekumar926425/LEETCODE-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2831-find-the-longest-equal-subarray](https://github.com/princekumar926425/LEETCODE-/tree/master/2831-find-the-longest-equal-subarray) |
+| [2848-points-that-intersect-with-cars](https://github.com/princekumar926425/LEETCODE-/tree/master/2848-points-that-intersect-with-cars) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/princekumar926425/LEETCODE-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/princekumar926425/LEETCODE-/tree/master/3146-permutation-difference-between-two-strings) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/princekumar926425/LEETCODE-/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-increment-submatrices-by-one](https://github.com/princekumar926425/LEETCODE-/tree/master/2536-increment-submatrices-by-one) |
 | [2574-left-and-right-sum-differences](https://github.com/princekumar926425/LEETCODE-/tree/master/2574-left-and-right-sum-differences) |
 | [2681-power-of-heroes](https://github.com/princekumar926425/LEETCODE-/tree/master/2681-power-of-heroes) |
+| [2848-points-that-intersect-with-cars](https://github.com/princekumar926425/LEETCODE-/tree/master/2848-points-that-intersect-with-cars) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/princekumar926425/LEETCODE-/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Heap (Priority Queue)
 |  |
