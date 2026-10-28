@@ -2,7 +2,7 @@ class Solution {
 public:
     int maximumPopulation(vector<vector<int>>& logs) {
 
-        vector<int>diff(102,0);
+        vector<int>diff(101,0);
           for(auto log:logs){
             int birth=log[0];
             int death=log[1];
