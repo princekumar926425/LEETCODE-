@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2848-points-that-intersect-with-cars](https://github.com/princekumar926425/LEETCODE-/tree/master/2848-points-that-intersect-with-cars) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/princekumar926425/LEETCODE-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/princekumar926425/LEETCODE-/tree/master/2942-find-words-containing-character) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/princekumar926425/LEETCODE-/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/princekumar926425/LEETCODE-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/princekumar926425/LEETCODE-/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/princekumar926425/LEETCODE-/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2831-find-the-longest-equal-subarray](https://github.com/princekumar926425/LEETCODE-/tree/master/2831-find-the-longest-equal-subarray) |
 | [2848-points-that-intersect-with-cars](https://github.com/princekumar926425/LEETCODE-/tree/master/2848-points-that-intersect-with-cars) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/princekumar926425/LEETCODE-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/princekumar926425/LEETCODE-/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3146-permutation-difference-between-two-strings](https://github.com/princekumar926425/LEETCODE-/tree/master/3146-permutation-difference-between-two-strings) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/princekumar926425/LEETCODE-/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/princekumar926425/LEETCODE-/tree/master/3760-maximum-substrings-with-distinct-start) |
