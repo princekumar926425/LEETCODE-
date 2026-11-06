@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2100-find-good-days-to-rob-the-bank](https://github.com/princekumar926425/LEETCODE-/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2104-sum-of-subarray-ranges](https://github.com/princekumar926425/LEETCODE-/tree/master/2104-sum-of-subarray-ranges) |
 | [2105-watering-plants-ii](https://github.com/princekumar926425/LEETCODE-/tree/master/2105-watering-plants-ii) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/princekumar926425/LEETCODE-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/princekumar926425/LEETCODE-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/princekumar926425/LEETCODE-/tree/master/2171-removing-minimum-number-of-magic-beans) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/princekumar926425/LEETCODE-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1657-determine-if-two-strings-are-close](https://github.com/princekumar926425/LEETCODE-/tree/master/1657-determine-if-two-strings-are-close) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/princekumar926425/LEETCODE-/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/princekumar926425/LEETCODE-/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/princekumar926425/LEETCODE-/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/princekumar926425/LEETCODE-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1854-maximum-population-year](https://github.com/princekumar926425/LEETCODE-/tree/master/1854-maximum-population-year) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/princekumar926425/LEETCODE-/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Geometry
 |  |
 | ------- |
