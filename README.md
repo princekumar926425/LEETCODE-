@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/princekumar926425/LEETCODE-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/princekumar926425/LEETCODE-/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/princekumar926425/LEETCODE-/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3074-apple-redistribution-into-boxes](https://github.com/princekumar926425/LEETCODE-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/princekumar926425/LEETCODE-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/princekumar926425/LEETCODE-/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/princekumar926425/LEETCODE-/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2592-maximize-greatness-of-an-array) |
 | [2681-power-of-heroes](https://github.com/princekumar926425/LEETCODE-/tree/master/2681-power-of-heroes) |
 | [2740-find-the-value-of-the-partition](https://github.com/princekumar926425/LEETCODE-/tree/master/2740-find-the-value-of-the-partition) |
+| [3074-apple-redistribution-into-boxes](https://github.com/princekumar926425/LEETCODE-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/princekumar926425/LEETCODE-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2592-maximize-greatness-of-an-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/princekumar926425/LEETCODE-/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2938-separate-black-and-white-balls](https://github.com/princekumar926425/LEETCODE-/tree/master/2938-separate-black-and-white-balls) |
+| [3074-apple-redistribution-into-boxes](https://github.com/princekumar926425/LEETCODE-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/princekumar926425/LEETCODE-/tree/master/3689-maximum-total-subarray-value-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/princekumar926425/LEETCODE-/tree/master/3727-maximum-alternating-sum-of-squares) |
