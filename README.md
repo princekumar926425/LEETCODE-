@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/princekumar926425/LEETCODE-/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/princekumar926425/LEETCODE-/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/2778-sum-of-squares-of-special-elements) |
 ## String
 |  |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/princekumar926425/LEETCODE-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/princekumar926425/LEETCODE-/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/princekumar926425/LEETCODE-/tree/master/2169-count-operations-to-obtain-zero) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/princekumar926425/LEETCODE-/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2485-find-the-pivot-integer](https://github.com/princekumar926425/LEETCODE-/tree/master/2485-find-the-pivot-integer) |
 | [2525-categorize-box-according-to-criteria](https://github.com/princekumar926425/LEETCODE-/tree/master/2525-categorize-box-according-to-criteria) |
 | [2681-power-of-heroes](https://github.com/princekumar926425/LEETCODE-/tree/master/2681-power-of-heroes) |
