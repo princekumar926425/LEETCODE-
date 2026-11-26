@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-categorize-box-according-to-criteria](https://github.com/princekumar926425/LEETCODE-/tree/master/2525-categorize-box-according-to-criteria) |
 | [2681-power-of-heroes](https://github.com/princekumar926425/LEETCODE-/tree/master/2681-power-of-heroes) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/princekumar926425/LEETCODE-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3360-stone-removal-game](https://github.com/princekumar926425/LEETCODE-/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/princekumar926425/LEETCODE-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/princekumar926425/LEETCODE-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/princekumar926425/LEETCODE-/tree/master/2169-count-operations-to-obtain-zero) |
 | [2460-apply-operations-to-an-array](https://github.com/princekumar926425/LEETCODE-/tree/master/2460-apply-operations-to-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/princekumar926425/LEETCODE-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3360-stone-removal-game](https://github.com/princekumar926425/LEETCODE-/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
