@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/princekumar926425/LEETCODE-/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/princekumar926425/LEETCODE-/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/princekumar926425/LEETCODE-/tree/master/0134-gas-station) |
+| [0217-contains-duplicate](https://github.com/princekumar926425/LEETCODE-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/princekumar926425/LEETCODE-/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/princekumar926425/LEETCODE-/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/princekumar926425/LEETCODE-/tree/master/0304-range-sum-query-2d-immutable) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/princekumar926425/LEETCODE-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/princekumar926425/LEETCODE-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/princekumar926425/LEETCODE-/tree/master/0012-integer-to-roman) |
+| [0217-contains-duplicate](https://github.com/princekumar926425/LEETCODE-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/princekumar926425/LEETCODE-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/princekumar926425/LEETCODE-/tree/master/0389-find-the-difference) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/princekumar926425/LEETCODE-/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/princekumar926425/LEETCODE-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/princekumar926425/LEETCODE-/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/princekumar926425/LEETCODE-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/princekumar926425/LEETCODE-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/princekumar926425/LEETCODE-/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/princekumar926425/LEETCODE-/tree/master/0389-find-the-difference) |
