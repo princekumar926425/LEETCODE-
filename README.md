@@ -605,4 +605,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/princekumar926425/LEETCODE-/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/princekumar926425/LEETCODE-/tree/master/0641-design-circular-deque) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/princekumar926425/LEETCODE-/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
